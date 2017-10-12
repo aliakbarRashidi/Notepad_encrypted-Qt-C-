@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/login.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/copy-icon.png</file>
+        <file>img/cut-icon.png</file>
+        <file>img/Infobox_info_icon.svg.png</file>
+        <file>img/new-icon.png</file>
+        <file>img/open-icon.png</file>
+        <file>img/paste-icon.png</file>
+        <file>img/redo-icon.png</file>
+        <file>img/save-as-icon.png</file>
+        <file>img/save-icon.png</file>
+        <file>img/undo-icon.png</file>
+        <file>img/font.png</file>
+        <file>img/color-icon.png</file>
+        <file>img/StylzzZ305.png</file>
+        <file>img/StylzzZ325.png</file>
+        <file>img/04f12baa9d6325124b5ea1310364ef9e.png</file>
+        <file>img/print-icon.png</file>
+        <file>img/music.png</file>
+        <file>../../Nowy folder (2)/Game1_prototype/Game1_prototype/car.png</file>
+        <file>img/folder_music.png</file>
+        <file>img/pause_music.png</file>
+        <file>img/Start_music.png</file>
+        <file>img/stop_music.png</file>
+        <file>img/music_player.png</file>
+        <file>img/Eject-Hot-icon.png</file>
+        <file>img/Microphone-Disabled-icon.png</file>
+        <file>img/Microphone-Hot-icon.png</file>
+        <file>img/Pause-icon2.png</file>
+        <file>img/Pause-Pressed-icon.png</file>
+        <file>img/Play-Hot-icon.png</file>
+        <file>img/Stop-Normal-Red-icon.png</file>
+        <file>img/center.png</file>
+        <file>img/justify.png</file>
+        <file>img/left.png</file>
+        <file>img/right.png</file>
+        <file>img/allipsis.png</file>
+        <file>img/font-awesome_4-7-0_gamepad_256_0_32363b_none.png</file>
+        <file>img/font-awesome_4-7-0_question_256_0_32363b_none.png</file>
+        <file>img/icomoon-free_2014-12-23_film_256_0_32363b_none.png</file>
+    </qresource>
+</RCC>

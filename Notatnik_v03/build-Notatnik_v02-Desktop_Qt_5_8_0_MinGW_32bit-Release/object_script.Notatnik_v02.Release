@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\secdialog.o
+./release\mainwindow2.o
+./release\musicplayer.o
+./release\simplecrypt.o
+./release\qrc_login.o
+./release\moc_mainwindow.o
+./release\moc_secdialog.o
+./release\moc_mainwindow2.o
+./release\moc_musicplayer.o
+);
